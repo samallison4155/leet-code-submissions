@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/samallison4155/leet-code-submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/samallison4155/leet-code-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samallison4155/leet-code-submissions/tree/master/0242-valid-anagram) |
+| [1796-second-largest-digit-in-a-string](https://github.com/samallison4155/leet-code-submissions/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/samallison4155/leet-code-submissions/tree/master/0242-valid-anagram) |
+| [1796-second-largest-digit-in-a-string](https://github.com/samallison4155/leet-code-submissions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
